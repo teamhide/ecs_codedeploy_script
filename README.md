@@ -4,11 +4,11 @@ Trigger Codedeploy associated with AWS ECS Blue/Green Deployment
 
 ## Usage
 
-You have to change below contents.
+You have to change below contents.<br /><br />
 
 *prod/test_appspec.yaml*
 
-`TASK_DEFINITION_ARN_HERE` : Task Definition ARN
+`TASK_DEFINITION_ARN_HERE` : Task Definition ARN<br /><br />
 
 *prod/test_deploy.sh*
 
